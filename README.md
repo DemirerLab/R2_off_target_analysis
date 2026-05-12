@@ -50,8 +50,6 @@ conda activate barrnap-workflow
 conda config --env --set subdir osx-64
 ```
 
-On Linux (x86-64), a single environment covering all tools is sufficient.
-
 ## Required Input Files
 
 ```
