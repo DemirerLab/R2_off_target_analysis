@@ -15,3 +15,5 @@ dependencies:
   - seaborn
   - jupyterlab
   - ipykernel
+  - pysam
+  - logomaker
